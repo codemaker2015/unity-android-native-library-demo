@@ -142,7 +142,7 @@ public class NativeCodeRunner : MonoBehaviour
 
 ```
 
-Add “CallNativePlugin” to a button click inside Unity3D, and you’re ready to test your native plugin!
+Now you’re ready to test your native plugin!
 
 To test your project, attach an Android device to your computer and run your project on your device. After clicking the button you should see an native Android Toast showing your passed text.
 Here’s a screenshot of what your app should look like.
