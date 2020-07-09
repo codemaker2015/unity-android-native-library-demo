@@ -144,7 +144,7 @@ public class NativeCodeRunner : MonoBehaviour
 
 Now you’re ready to test your native plugin!
 
-To test your project, attach an Android device to your computer and run your project on your device. After clicking the button you should see an native Android Toast showing your passed text.
+To test your project, attach an Android device to your computer and run your project on your device. After loading the application you should see an native Android Toast showing your passed text.
 Here’s a screenshot of what your app should look like.
 
 ![Screenshot 6](https://github.com/codemaker2015/unity-android-native-library-demo/blob/master/Screenshots/Screenshot6.png)
