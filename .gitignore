@@ -3,7 +3,8 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
-[Bb]uilds/
+# [Bb]uilds/
+[Ll]ibrary/
 [Ll]ogs/
 [Aa]ssets/AssetStoreTools*
 
